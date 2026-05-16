@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building modern web applications, solving real-world problems, and contributing to open source<br><br>🌟 GSSoC'26 Contributor<br><br>👯 Looking to collaborate on exciting Open Source, React.js, and Full Stack projects<br><br>💻 Skilled in C++, Python, HTML, CSS, JavaScript, and React.js<br><br>🧠 Solved 230+ LeetCode problems with a strong passion for problem-solving and optimization<br><br>🚀 Love transforming creative ideas into impactful digital experiences<br><br>⚡ Fun fact: I enjoy debugging as much as building — every bug is just another puzzle to solve!<br>
+🔭 Building modern web applications, solving real-world problems, and contributing to open source<br>🌟 GSSoC'26 Contributor<br>👯 Looking to collaborate on exciting Open Source, React.js, and Full Stack projects<br>💻 Skilled in C++, Python, HTML, CSS, JavaScript, and React.js<br>🧠 Solved 230+ LeetCode problems with a strong passion for problem-solving and optimization<br>🚀 Love transforming creative ideas into impactful digital experiences<br>⚡ Fun fact: I enjoy debugging as much as building — every bug is just another puzzle to solve!<br>
 
 
 ## 🌐 Socials:
